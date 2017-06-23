@@ -69,8 +69,7 @@ cd bin
 ```
 ./karaf
 ```
->6.出现上面界面完成安装
->7．功能组件安装
+>6.完成安装后，进行功能组件安装
 ```
 opendaylight-user@root>feature:install odl-restconf
 opendaylight-user@root>feature:install odl-l2switch-switch-ui
